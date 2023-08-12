@@ -10,8 +10,6 @@
 - 📊 Interestingly, I also have an affinity for accounting and finance, and I'm close to obtaining a degree in public accounting.
 
 ### My Technological and Knowledge Stack
-
-### My Technological and Knowledge Stack
 <ul>
  <li> Python <img src="https://github.com/nicosurgen/nicosurgen/assets/132420830/88a39bf5-c7ac-4a33-b757-f210d5865de0" width="25px"></li>
 <li> R-Studio <img src="https://github.com/nicosurgen/nicosurgen/assets/132420830/3e0740cc-35a7-45a6-add4-23a82bccc01b" width="25px"></li>
