@@ -1,6 +1,6 @@
 <h1> Hi, I'm Nicolas Surgen <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px"></h1>
 
-<h2>Data science and IA development trainee. 📊🤖</h2>
+<h2>Data science trainee. 📊🤖</h2>
 
 ### About Me
 - 🎉 I'm 20 years old and reside in Rosario, Argentina 🇦🇷.
